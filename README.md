@@ -1,6 +1,6 @@
 <p style="font-family: 'SF Pro Display Heavy'">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+UI+Display+Heavy&size=310&duration=2100&pause=121&color=D9B4F7&background=FF000000&center=true&vCenter=true&width=3210&height=821&lines=hawk+tuah;+i'm+yzwr+(ply))](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=SF+UI+Display+Heavy&size=310&duration=2100&pause=121&color=D9B4F7&background=FF000000&center=true&vCenter=true&width=3210&height=821&lines=hawk+tuah;+i'm+yzwr+(ply))](https://git.io/typing-svg" />
 
 # me, myself and i
 
