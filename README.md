@@ -4,7 +4,7 @@
 
 i'm a student from France
 i absolutely don't code at all
-i'm ||wifed
+i'm ||wifed||
 
 # spotify listening activity
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31eqgi2msgjiqm6znplew2zccfq4&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31eqgi2msgjiqm6znplew2zccfq4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=fd81d6&bar_color_cover=false)]]
+[![https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31eqgi2msgjiqm6znplew2zccfq4&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31eqgi2msgjiqm6znplew2zccfq4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=fd81d6&bar_color_cover=false)]]
