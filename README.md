@@ -2,7 +2,7 @@
   
 <img src="https://readme-typing-svg.demolab.com?font=SF+UI+Display+Heavy&size=310&duration=2100&pause=121&color=D9B4F7&background=FF000000&center=true&vCenter=true&width=3210&height=821&lines=hawk+tuah;+i'm+yzwr+(ply)" />
 
-# me, myself and i
+<h1> me, myself and i </h1>
 
 
 <img align="right" width="200" src="https://github.com/YazWare/YazWare/blob/main/jaydes%20(1).jpg?raw=true" />
