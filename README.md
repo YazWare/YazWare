@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+UI+Display+Heavy&size=310&duration=2100&pause=121&color=D9B4F7&background=FF000000&center=true&vCenter=true&width=3210&height=821&lines=hawk+tuah;+i'm+yzwr+(ply))](https://git.io/typing-svg)
 
 <!--
 **YazWare/YazWare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
