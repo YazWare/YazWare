@@ -8,11 +8,17 @@
 <img align="right" width="200" src="https://github.com/YazWare/YazWare/blob/main/jaydes%20(1).jpg?raw=true" />
 <img align="right" width="239" src="https://github.com/YazWare/YazWare/blob/main/Jaydes.jpg?raw=true" />
 
-### i'm a student from _france_
-### i absolutely don't _code_ at all 
-### i'm _wifed_
-### future _furry_
-### free _jaydes_
+<h3> 
+  
+i'm a student from _france_
+  
+i absolutely don't _code_ at all 
+ 
+i'm _wifed_
+ 
+future _furry_
+ 
+ free _jaydes_ <h3>
 
 
 
