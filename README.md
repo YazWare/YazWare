@@ -10,15 +10,15 @@
 
 <h3> 
   
-i'm a student from _france_
+  i'm a student from _france_
   
-i absolutely don't _code_ at all 
+   i absolutely don't _code_ at all 
  
-i'm _wifed_
+   i'm _wifed_
  
-future _furry_
+  future _furry_
  
- free _jaydes_ </h3>
+  free _jaydes_ </h3>
 
 
 
