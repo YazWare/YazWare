@@ -11,20 +11,21 @@
 
 <h3> 
   
- <p> i'm a student from _france_ </p>
+ <p> i'm a student from france </p>
   
- <p>  i absolutely don't _code_ at all </p>
+ <p>  i absolutely don't code at all </p>
  
-  <p> i'm _wifed_ </p>
+  <p> i'm wifed </p>
  
-<p>  future _furry_ </p>
+<p>  future furry </p>
  
-  <p> free _jaydes_ </h3> </p>
+  <p> free jaydes </p>
 
 
-<p>   </p>
-<p>   </p>
+<p> i bust the shit out of me for gagi the best sugar mommy in the whole wide world  </p> </h3>
 
- <h2> <p> spotify listening activity </p> </h2> 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eqgi2msgjiqm6znplew2zccfq4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=fd81d6&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eqgi2msgjiqm6znplew2zccfq4&redirect=true)" />
+ <h1> <p> spotify listening activity / socials </p> </h1> 
+<p> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eqgi2msgjiqm6znplew2zccfq4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=fd81d6&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eqgi2msgjiqm6znplew2zccfq4&redirect=true)" width=221 />
+ <a href="https://guns/lol/w3"> <img src="https://assets.guns.lol/guns_banner_embed.png" width=600 align=right  > </p>
+ 
 </p>
