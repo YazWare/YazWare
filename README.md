@@ -1,6 +1,7 @@
 <p style="font-family: 'SF Pro Display Heavy'">
-  
-<img src="https://readme-typing-svg.demolab.com?font=SF+UI+Display+Heavy&size=310&duration=2100&pause=121&color=D9B4F7&background=FF000000&center=true&vCenter=true&width=3210&height=821&lines=hawk+tuah;+i'm+yzwr+(ply)" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<img src="https://readme-typing-svg.demolab.com?font=SF+UI+Display+Heavy&size=310&duration=2100&pause=121&color=D9B4F7&background=FF000000&center=true&vCenter=true&width=1605&height=410.5&lines=hawk+tuah;+i'm+yzwr+(ply)" />
 
 <h1> me, myself and i </h1>
 
@@ -10,19 +11,19 @@
 
 <h3> 
   
-  i'm a student from _france_
+ <p> i'm a student from _france_ </p>
   
-   i absolutely don't _code_ at all 
+ <p>  i absolutely don't _code_ at all </p>
  
-   i'm _wifed_
+  <p> i'm _wifed_ </p>
  
-  future _furry_
+<p>  future _furry_ </p>
  
-  free _jaydes_ </h3>
+  <p> free _jaydes_ </h3> </p>
 
 
 
 
-<h1> spotify listening activity </h1>
+<p> <h1> spotify listening activity </h1> </p>
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eqgi2msgjiqm6znplew2zccfq4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=fd81d6&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eqgi2msgjiqm6znplew2zccfq4&redirect=true)" />
 </p>
