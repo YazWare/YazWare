@@ -1,6 +1,7 @@
 @font-face {
     font-family: 'SFProDisplayBold';
     src: url('fonts/SFProDisplayBold.woff2') format('woff2'),
+         url('fonts/SFProDisplayBold.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
