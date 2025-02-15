@@ -9,3 +9,46 @@
 body {
     font-family: 'SFProDisplayBold', sans-serif;
 }
+
+/* Reset margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+/* Image styling to make them responsive */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+}
+
+/* For images aligned to the right */
+img[align="right"] {
+    max-width: 50%;
+}
+
+/* Heading and paragraph styling */
+h1, h3 {
+    margin-bottom: 20px;
+}
+
+h3 p {
+    margin: 10px 0;
+}
+
+/* Optional: Add a bit of padding around the images for spacing */
+h1, h3 {
+    text-align: center;
+}
