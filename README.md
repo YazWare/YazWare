@@ -23,6 +23,6 @@
 
  <h1> <p> spotify listening activity / socials </p> </h1> 
 <p> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eqgi2msgjiqm6znplew2zccfq4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=fd81d6&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eqgi2msgjiqm6znplew2zccfq4&redirect=true)" width=221 />
- <a href="https://guns/lol/w3"> <img src="https://assets.guns.lol/guns_banner_embed.png" width=600 align=right  > </p>
+ <a href="https://guns.lol/w3"> <img src="https://assets.guns.lol/guns_banner_embed.png" width=600 align=right  > </p>
  
 </p>
